@@ -1,1 +1,1 @@
-# Diyari.ai
+# Diyary.ai
