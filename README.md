@@ -2,6 +2,9 @@
 
 Coming soon...
 
+## Contents
+[Installation](#installation)
+
 ## Installation
 
 1. Clone the repository
